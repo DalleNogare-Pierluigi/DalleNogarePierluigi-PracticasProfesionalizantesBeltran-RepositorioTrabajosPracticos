@@ -1,0 +1,10 @@
+body{
+    color: green;
+    background-color: black; /* esto para que se lea mejor la escala de grises */
+}
+h1 em {color: #ddd}
+h2 em {color: #ccc}
+h3 em {color: #bbb}
+h4 em {color: #aaa}
+h5 em {color: #999}
+h6 em {color: #888}
